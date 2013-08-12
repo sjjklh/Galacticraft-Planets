@@ -1,0 +1,50 @@
+# Galacticraft Mars Language File = SIMPLIFIED CHINESE
+
+# GENERAL ITEMS
+item.reinfocedBucket.name=加强桶
+item.reinfocedBucketMilk.name=加强牛奶桶
+item.reinfocedBucketWater.name=加强水桶
+item.reinfocedBucketLava.name=加强岩浆桶
+item.reinfocedBucketSludge.name=Reinforced Bacterial Sludge Bucket
+item.rawDesh.name=Unrefined Desh
+item.deshStick.name=Desh Stick
+item.ingotDesh.name=Desh Ingot
+item.spaceshipTier2.name=等级2 火箭
+
+# TOOLS
+item.deshPick.name=Desh Pickaxe
+item.deshAxe.name=Desh Axe
+item.deshHoe.name=Desh Hoe
+item.deshSpade.name=Desh Shovel
+item.deshSword.name=Desh Sword
+
+# ARMOR
+item.deshHelmet.name=Desh Helmet
+item.deshChestplate.name=Desh Chestplate
+item.deshLeggings.name=Desh Leggings
+item.deshBoots.name=Desh Boots
+
+# BLOCKS
+tile.mars.deshmars.name=Desh Ore
+tile.mars.coppermars.name=铜矿石
+tile.mars.tinmars.name=锡矿石
+tile.mars.ironmars.name=铁矿石
+tile.mars.marscobblestone.name=圆石
+tile.mars.marsstone.name=石头
+tile.mars.marsdirt.name=泥土
+tile.mars.marsgrass.name=草
+tile.mars.marsdeco.name=Desh Decoration Block
+tile.mars.marsdungeon.name=地牢围墙
+tile.treasureT2.name=等级2 珍品箱
+tile.slimelingEgg.redEgg.name=Red Slimeling Egg
+tile.slimelingEgg.blueEgg.name=Blue Slimeling Egg
+tile.slimelingEgg.yellowEgg.name=Yellow Slimeling Egg
+tile.basiccomponents.marsMachine.0.name=火力发电机
+
+# GUI
+gui.choosePlanet.desc.mars=可居住#无氧气#重力: 38%
+item.deshPickSlime.description.name=可采集Slimeling eggs
+
+itemGroup.GalacticraftMars=Galacticraft火星
+
+dimension.Mars.name=火星
